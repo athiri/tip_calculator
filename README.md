@@ -24,7 +24,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgflip.com/gif/5qudwg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgflip.com/gif/5qudwg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [imgflip.com](http://www.imgflip.com/).
 
