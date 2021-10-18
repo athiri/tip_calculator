@@ -19,6 +19,7 @@ The following **extensions** are implemented:
 
 * [ ] Custom colors palette selected
 * [ ] List anything else that you did to improve the app functionality or design!
+* [ ] Replaced the text describing the tip (“poor”, “good”, etc) with emojis 
 
 ## Video Walkthrough
 
@@ -30,11 +31,11 @@ GIF created with imgur.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Just some syntax issues
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Mark Athiri]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
